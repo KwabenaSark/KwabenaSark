@@ -6,7 +6,7 @@
 
 📝 I enjoy writing database queries 
 
-💬 Ask me about Databases, Open Source and Communities
+💬 Ask me about Cloud computing, Open Source and Communities
 
 📫 You can reach out to me on here
 
