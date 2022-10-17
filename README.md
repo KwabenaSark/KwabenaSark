@@ -31,7 +31,7 @@ Full Stack Developer | Database Developer
 
 <p align="left"> <a href="https://www.github.com/KwabenaSark" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kwabena-sarkodieh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwabenaSark&layout=compact)](https://github.com/KwabenaSark/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwabenaSark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Badges
 
 <b>My GitHub Stats</b>
