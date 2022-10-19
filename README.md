@@ -9,7 +9,7 @@ Full Stack Developer | Database Developer
 * 👯 I’m looking to collaborate on any full stack app 
 * 📝 I enjoy writing database queries 
 * 💬 Ask me about Cloud-computing, Web apps, Open Source and Communities 
-* 📫 You can reach out to me on here 
+* 📫 You can reach out to me on [here](https://stirring-starburst-77aff0.netlify.app/) 
 * ⚡ Fun fact I hate notepad ++!
 
 
