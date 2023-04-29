@@ -5,7 +5,7 @@ Full Stack Developer | Database Developer
 --------------------
 
 * 🔭 I’m currently working on a full stack weather app 
-* 🌱 I’m currently learning Javascript ;) 
+* 🌱 I’m trying to master  JavaScript and TypeScript ;) 
 * 👯 I’m looking to collaborate on any full stack app 
 * 📝 I enjoy writing database queries 
 * 💬 Ask me about Cloud-computing, Web apps, Open Source and Communities 
