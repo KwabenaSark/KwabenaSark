@@ -5,7 +5,7 @@ software engineer
 --------------------
 
 * 🌱 Mostly focused on JavaScript ;) 
-* 📝 I enjoy buildig applications and learning new technologies 
+* 📝 I enjoy building applications and learning new technologies 
 * 📫 You can reach out to me on [here](https://stirring-starburst-77aff0.netlify.app/) 
 * ⚡ Fun fact I hate notepad ++!
 
