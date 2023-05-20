@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 software engineer
 --------------------
 
-* 🔭 I’m currently building side projects
 * 🌱 Mostly focused on JavaScript ;) 
 * 📝 I enjoy buildig applications and learning new technologies 
 * 📫 You can reach out to me on [here](https://stirring-starburst-77aff0.netlify.app/) 
