@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kwabena Sarkodieh
 =========================================================================================================================================
 
-Full Stack Developer | Database Developer 
+Software Engineer
 --------------------
 
-* 🔭 I’m currently working on a full stack weather app 
-* 🌱 I’m trying to master  JavaScript and TypeScript ;) 
+* 🔭 I’m currently working on a full RPG Game
+* 🌱 I’m trying to master  JavaScript ;) 
 * 👯 I’m looking to collaborate on any full stack app 
-* 📝 I enjoy writing database queries 
-* 💬 Ask me about Cloud-computing, Web apps, Open Source and Communities 
+* 📝 I enjoy buildig applications and learning new technologies 
 * 📫 You can reach out to me on [here](https://stirring-starburst-77aff0.netlify.app/) 
 * ⚡ Fun fact I hate notepad ++!
 
