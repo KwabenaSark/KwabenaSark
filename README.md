@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌱 Mostly focused on JavaScript ;) 
-* 📝 I enjoy building web-based applications that incorporate artificial intelligence 
+* 📝 I enjoy building software that delivers result
 * 📫 You can reach out to me on [here](https://stirring-starburst-77aff0.netlify.app/) 
 * ⚡ Fun fact I hate notepad ++!
 
